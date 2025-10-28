@@ -1,4 +1,4 @@
-sql
+-- SQL скрипт для базы данных Туризм
 -- Создание базы данных Туризм
 CREATE DATABASE IF NOT EXISTS Tourism 
 CHARACTER SET utf8mb4 
